@@ -1,6 +1,6 @@
 # minisweeper-game
 K19QK-G-16 INT-213 39,51,53
-MInisweeper game INT-213 Roll No- 65, 66,55. Section- K19QK,( KUMAR DEV, RIYA TYAGI, ABHINAV KUMAR)
+MInisweeper game INT-213 Roll No- 65, 66,55. Section- K19QK,( KUMAR DEV, REETIKA TYAGI, ABHINAV KUMAR)
 
 This is GUI based application designed using tkinter,
  Install Date and Time module.
